@@ -1,1 +1,34 @@
-a
+---
+title: "The Procastinate Board"
+author: "Ayush Jaiswal"
+description: "Making this personal keyboard so that I don't procastinate making a keyboard later on"
+created_at: "2025-06-12"
+---
+
+# Project Idea/Inspo
+
+I really wanted to make a keyboard to just gain insights on how electronics like keyboards work. After doing the hackpad, I got inspired to make a full keyboard looking at the keyboards other members made. Welp how hard can it be :smile:
+
+Inspo- https://www.montechpc.com/mkey-tkl
+
+Total time spent: 29h 
+
+
+
+,Part,Quantity,Why?,Cost,URL
+,PCB,1,*required,,
+Shipping,,,,,
+,RP2350 Stamp,1,Main Microcontroller.,$12.09,https://lectronz.com/products/rp2350-stamp
+Shipping,,,,$5.76,
+,SK6812MINI-E LEDs,84,RGB under each key,$5.02,https://lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html?s_z=n_SK6812MINI
+,Rotary Encoder (EC11),1,Also on my keyboard,$1.95,https://lcsc.com/product-detail/Rotary-Encoders_ALPSALPINE-EC11E18244AU_C202365.html?s_z=n_Rotary%2520Encoder%2520EC11%2520Alps
+,Diodes 1N4148,84,1 per key,$0.90,https://lcsc.com/product-detail/Switching-Diodes_LGE-1N4148_C402212.html?s_z=n_1N4148%2520Diode
+,Resistor 330Ω,1,For SK6812 rgb line,$0.53,https://lcsc.com/product-detail/Through-Hole-Resistors_CCO-Chian-Chia-Elec-MF1-4W-330-1-T_C119313.html?s_z=n_330%2520ohm%2520through%2520hole%2520resistor
+,USB-C connector (16P),1,Since it's a stamp,$0.87,https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html?s_z=n_USB%2520C%252016P
+,Resistor 5.1kΩ,2,USB C to RP2040,$0.09,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F5101TS_C2907044.html?s_z=n_5.1k%2520ohm%2520smd%2520resistor
+Shipping,,,,$3.00,
+,Kailh Hotswappable Switches,84,*required,$12.50,https://www.amazon.com/gp/product/B096WZ6TJ5/ref=ewc_pr_img_2?smid=A257ALKOU7JKIJ&psc=1
+,Filament ~400g,1(~400g),I only need 400g but I can't find less than 1KG,$11.99,https://www.amazon.com/gp/product/B0CS2XHNKL/ref=ewc_pr_img_1?smid=A340DAQR1F0B17
+,Flux,70g,I would need this for soldering,$5.99,https://www.amazon.com/gp/product/B08MVXW4RY/ref=ox_sc_act_title_2?smid=A52EOVPNRJXJR
+Shipping,,,,$60.69,
+Total,,,,,
