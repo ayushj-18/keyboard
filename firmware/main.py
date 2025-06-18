@@ -39,5 +39,13 @@ keyboard.keymap = [
      KC.LCTRL, KC.LGUI, KC.LALT, KC.NO, KC.NO, KC.SPACE, KC.NO, KC.NO, KC.NO, KC.RALT, KC.RGUI, KC.NO, KC.MENU, KC.RCTRL, KC.LEFT, KC.DOWN, KC.RIGHT,
      ]
 ]
+
+rgb = RGB(
+    pixel_pin=board.GP30,
+    num_pixels=84,
+    val_limit=100,
+    animation_mode=2  # 2 = Rainbow Swirl, 1 = Solid Color, etc.
+)
+
 if __name__ == '__main__':
     keyboard.go()

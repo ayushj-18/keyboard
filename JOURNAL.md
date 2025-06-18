@@ -53,7 +53,16 @@ I have completed the schematic, I realized I didn't have a USB C for my RP2040 s
 ## Time Spent: 2h
 It's currently 2am or so But I have made an entire BOM, Got all my CAD Files here, double checked my firmware & I don't think I can't do much if I messed up my PCB :sob:. Fingers are crossed if I didn't mess up anything. I really wanna start my 3rd project soon which will take so long to research. I am aware that I don't have capacitators for my rgb light setup, but it won't be an issue. My brightness wouldn't be set to too high. Idk if I should have any pictures here because all I did was the BOM and doomscrolled a bit in between.
 
-special thanks to @SbRhubarbPie, @domain, @Souptik Samanta on slack & more for answering some of my questions.
+# Day 6: June 17th, 2025 
 
+## Time Spent: 8h
+Since it's still getting reviewed, I decided to completely redesign my rgb part of the pcb, recommeneded by @Kai Pereira. He said to add capacitators after each rgb. I decided to do that which took the majority of the day and alot of frustration. I also had a really bad time rewiring everything, but I completed this and slept peacefully. ofc this took 10 hours (extended till tmrw)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
+# Day 7: June 18th, 2025
+
+## Time spent: 2h+4h
+Still didn't get reviewed, I decided to also polish the CAD in the hope of 1 extra point. Working on it, might take a bit of my sanity but atleast my onshape is better than KiCAD. Forgot to mention this before but I switched my RP2040 stamp to a RP2035 stamp because RP2040 stamps aren't available in the market.
 
