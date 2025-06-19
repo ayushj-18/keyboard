@@ -58,8 +58,6 @@ It's currently 2am or so But I have made an entire BOM, Got all my CAD Files her
 ## Time Spent: 8h
 Since it's still getting reviewed, I decided to completely redesign my rgb part of the pcb, recommeneded by @Kai Pereira. He said to add capacitators after each rgb. I decided to do that which took the majority of the day and alot of frustration. I also had a really bad time rewiring everything, but I completed this and slept peacefully. ofc this took 10 hours (extended till tmrw)
 ![Day 6 pic](Schematic.png)
-![Day 6 pic](FrontLayerPCB.png)
-![Day 6 pic](BackLayerPCB.png)
 
 # Day 7: June 18th, 2025
 
@@ -71,8 +69,11 @@ Ok I went crazy on polishing the CAD and I decided to add some art! My 2 favouri
 
 # Day 8: June 19th, 2025
 
-## Time spent: 2h
+## Time spent: 2h+4h
 2am right now, yeah I was just polishing CAD. Decided to add some keyswitches, but they are the wrong time. But frick it, we ball!
-![Day 8 pick](Day8pic1.png)
+![Day 8 pic](Day8pic1.png)
+BRUHHH I forgot to add stabilizers. JUST WHEN I THOUGHT I WAS DONE WITH THE PCB. took like 2 seconds but the frustration was insane. I don't feel like updating my step file for the PCB LOL DEAL WITH IT AHAH.
+![Day 8 pic](3DFrontviewPCB)
+
 
 
