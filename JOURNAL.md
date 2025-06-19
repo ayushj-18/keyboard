@@ -75,5 +75,8 @@ Ok I went crazy on polishing the CAD and I decided to add some art! My 2 favouri
 BRUHHH I forgot to add stabilizers. JUST WHEN I THOUGHT I WAS DONE WITH THE PCB. took like 2 seconds but the frustration was insane. I don't feel like updating my step file for the PCB LOL DEAL WITH IT AHAH.
 ![Day 8 pic](3DFrontviewPCB)
 
+COMPLETED CAD!!!!!!!!! YIPPPPEEEEEEE!!!!! PROJECT IS DONE PLEASE REVIEW!!!!!
+will put the stl files in a bit after the splits
+![Day 8 pic](IsometricViewCAD)
 
 
