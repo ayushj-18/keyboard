@@ -17,25 +17,39 @@ Total time spent: 49h
 
 This is an 84 key keyboard with Backlit RGB under each key, A rotary Encoder & the MCU used is the RP2035 Stamp.
 
-# PCB
-## Schematic Made on KiCAD
-![alt text](Schematic.png)
+# PCB Design
 
-## PCB editing on KiCAD
-![alt text](BothLayersPCB.png)
-![alt text](FrontLayerPCB.png)
-![alt text](BackLayerPCB.png)
+## Schematic (KiCad 8)
+![Schematic](Schematic.png)
 
-## 3D View of PCB
-![alt text](3DFrontviewPCB.png)
-![alt text](3DBackviewPCB.png)
+## PCB Layout (KiCad 8)
+### Both Layers
+![PCB Both Layers](BothLayersPCB.png)
+
+### Front Layer
+![Front Layer](FrontLayerPCB.png)
+
+### Back Layer
+![Back Layer](BackLayerPCB.png)
+
+## 3D View (KiCad Render)
+### 3D Front View
+![3D Front](3DFrontviewPCB.png)
+
+### 3D Back View
+![3D Back](3DBackviewPCB.png)
+
+---
 
 # Firmware
-## Kmk main.py- edited in VS Code
-![alt text](FirmwareV1.png)
 
-# CAD
-## 3D modeling - Onshape
+### KMK `main.py` (written in VSCode)
+![Firmware Screenshot](FirmwareV1.png)
 
+---
+
+# CAD & Case Design
+
+### 3D Modeling (Onshape)
 
 
