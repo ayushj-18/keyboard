@@ -51,18 +51,28 @@ I have completed the schematic, I realized I didn't have a USB C for my RP2040 s
 # Day 5: June 16th, 2025 (from midnight)
 
 ## Time Spent: 2h
-It's currently 2am or so But I have made an entire BOM, Got all my CAD Files here, double checked my firmware & I don't think I can't do much if I messed up my PCB :sob:. Fingers are crossed if I didn't mess up anything. I really wanna start my 3rd project soon which will take so long to research. I am aware that I don't have capacitators for my rgb light setup, but it won't be an issue. My brightness wouldn't be set to too high. Idk if I should have any pictures here because all I did was the BOM and doomscrolled a bit in between.
+It's currently 2am or so But I have made an entire BOM, Got all my CAD Files here, double checked my firmware & I don't think I can't do much if I messed up my PCB :sob:. Fingers are crossed if I didn't mess up anything. I really wanna start my 3rd project soon which will take so long to research. I am aware that I don't have capacitators for my rgb light setup, but it won't be an issue. My brightness wouldn't be set to too high. Idk if I should have any pictures here because all I did was the BOM and doomscrolled a bit in between. (only worked on it 12am-2am)
 
 # Day 6: June 17th, 2025 
 
 ## Time Spent: 8h
 Since it's still getting reviewed, I decided to completely redesign my rgb part of the pcb, recommeneded by @Kai Pereira. He said to add capacitators after each rgb. I decided to do that which took the majority of the day and alot of frustration. I also had a really bad time rewiring everything, but I completed this and slept peacefully. ofc this took 10 hours (extended till tmrw)
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![Day 6 pic](Schematic.png)
+![Day 6 pic](FrontLayerPCB.png)
+![Day 6 pic](BackLayerPCB.png)
 
 # Day 7: June 18th, 2025
 
-## Time spent: 2h+4h
+## Time spent: 2h+2h+1h
 Still didn't get reviewed, I decided to also polish the CAD in the hope of 1 extra point. Working on it, might take a bit of my sanity but atleast my onshape is better than KiCAD. Forgot to mention this before but I switched my RP2040 stamp to a RP2035 stamp because RP2040 stamps aren't available in the market.
+
+Ok I went crazy on polishing the CAD and I decided to add some art! My 2 favourite albums, well not really I have one more, "Alone At Prom" but I couldn't generate a good enough silkscreen art for it :(( 
+![Day 7 pic](BothLayersPCB.png)
+
+# Day 8: June 19th, 2025
+
+## Time spent: 2h
+2am right now, yeah I was just polishing CAD. Decided to add some keyswitches, but they are the wrong time. But frick it, we ball!
+![Day 8 pick](Day8pic1.png)
+
 

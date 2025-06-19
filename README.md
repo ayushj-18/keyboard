@@ -11,7 +11,7 @@ I really wanted to make a keyboard to just gain insights on how electronics like
 
 Inspo- https://www.montechpc.com/mkey-tkl
 
-Total time spent: 43h 
+Total time spent: 49h 
 
 # Project Overview
 
@@ -19,7 +19,7 @@ This is an 84 key keyboard with Backlit RGB under each key, A rotary Encoder & t
 
 # PCB
 ## Schematic Made on KiCAD
-![alt text](image.png)
+![alt text](Schematic.png)
 
 ## PCB editing on KiCAD
 ![alt text](BothLayersPCB.png)
