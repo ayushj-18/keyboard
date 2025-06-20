@@ -20,34 +20,34 @@ This is an 84 key keyboard with Backlit RGB under each key, A rotary Encoder & t
 # PCB Design
 
 ### Schematic (KiCad 8)
-![Schematic]([https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/Schematic.png](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/3DBackviewPCB.png))
+![Schematic](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/Schematic.png)
 
 ### PCB Layout (KiCad 8)
 
 #### Both Layers
-![PCB Both Layers](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/BothLayersPCB.png)
+![PCB Both Layers](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/BothLayersPCB.png)
 
 #### Front Layer
-![Front Layer](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/FrontLayerPCB.png)
+![Front Layer](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/FrontLayerPCB.png)
 
 #### Back Layer
-![Back Layer](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/BackLayerPCB.png)
+![Back Layer](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/BackLayerPCB.png)
 
 # 3D View
 
 #### 3D Front View
-![3D Front](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/3DFrontviewPCB.png)
+![3D Front](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/3DFrontviewPCB.png)
 
 #### 3D Back View
-![3D Back](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/3DBackviewPCB.png)
+![3D Back](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/3DBackviewPCB.png)
 
 ---
 
 # CAD & Case Design
 
 ### 3D Modeling (Onshape)
-![Isometric View CAD](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/IsometricViewCAD.png)
-![Side View CAD](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/SideViewCAD.png)
-![Top View CAD](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/TopViewCAD.png)
+![Isometric View CAD](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/IsometricViewCAD.png)
+![Side View CAD](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/SideViewCAD.png)
+![Top View CAD](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/TopViewCAD.png)
 
 
