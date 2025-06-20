@@ -20,7 +20,7 @@ This is an 84 key keyboard with Backlit RGB under each key, A rotary Encoder & t
 # PCB Design
 
 ### Schematic (KiCad 8)
-![Schematic](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/Schematic.png)
+![Schematic]([https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/Schematic.png](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/3DBackviewPCB.png))
 
 ### PCB Layout (KiCad 8)
 
