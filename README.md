@@ -19,41 +19,35 @@ This is an 84 key keyboard with Backlit RGB under each key, A rotary Encoder & t
 
 # PCB Design
 
-## Schematic (KiCad 8)
-![Schematic](Schematic.png)
+### Schematic (KiCad 8)
+![Schematic](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/Schematic.png)
 
-## PCB Layout (KiCad 8)
-### Both Layers
-![PCB Both Layers](BothLayersPCB.png)
+### PCB Layout (KiCad 8)
 
-### Front Layer
-![Front Layer](FrontLayerPCB.png)
+#### Both Layers
+![PCB Both Layers](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/BothLayersPCB.png)
 
-### Back Layer
-![Back Layer](BackLayerPCB.png)
+#### Front Layer
+![Front Layer](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/FrontLayerPCB.png)
 
-## 3D View (KiCad Render)
-### 3D Front View
-![3D Front](3DFrontviewPCB.png)
+#### Back Layer
+![Back Layer](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/BackLayerPCB.png)
 
-### 3D Back View
-![3D Back](3DBackviewPCB.png)
+# 3D View
 
----
+#### 3D Front View
+![3D Front](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/3DFrontviewPCB.png)
 
-# Firmware
-
-### KMK `main.py` (written in VSCode)
-![Firmware Screenshot](FirmwareV1.png)
+#### 3D Back View
+![3D Back](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/3DBackviewPCB.png)
 
 ---
 
 # CAD & Case Design
 
 ### 3D Modeling (Onshape)
-![CAD ss](IsometricViewCAD.png)
-![CAD ss](SideViewCAD.png)
-![CAD ss](TopViewCAD.png)
+![Isometric View CAD](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/IsometricViewCAD.png)
+![Side View CAD](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/SideViewCAD.png)
+![Top View CAD](https://raw.githubusercontent.com/ayushj-18/procastinateboard/main/TopViewCAD.png)
 
----
 
