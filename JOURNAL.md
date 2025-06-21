@@ -51,32 +51,37 @@ I have completed the schematic, I realized I didn't have a USB C for my RP2040 s
 # Day 5: June 16th, 2025 (from midnight)
 
 ## Time Spent: 2h
-It's currently 2am or so But I have made an entire BOM, Got all my CAD Files here, double checked my firmware & I don't think I can't do much if I messed up my PCB :sob:. Fingers are crossed if I didn't mess up anything. I really wanna start my 3rd project soon which will take so long to research. I am aware that I don't have capacitators for my rgb light setup, but it won't be an issue. My brightness wouldn't be set to too high. Idk if I should have any pictures here because all I did was the BOM and doomscrolled a bit in between. (only worked on it 12am-2am)
+It's currently 2am or so But I have made an entire BOM, Got all my CAD Files here, double checked my firmware & I don't think I can't do much if I messed up my PCB :sob:. Fingers are crossed if I didn't mess up anything. I really wanna start my 3rd project soon which will take so long to research. I am aware that I don't have capacitators for my rgb light setup, but it won't be an issue. My brightness wouldn't be set to too high. Idk if I should have any pictures here because all I did was the BOM and doomscrolled a bit in between. (only worked on it 12am-2am). no journal picture :sob:
 
 # Day 6: June 17th, 2025 
 
-## Time Spent: 8h
-Since it's still getting reviewed, I decided to completely redesign my rgb part of the pcb, recommeneded by @Kai Pereira. He said to add capacitators after each rgb. I decided to do that which took the majority of the day and alot of frustration. I also had a really bad time rewiring everything, but I completed this and slept peacefully. ofc this took 10 hours (extended till tmrw)
-![Day 6 pic](Schematic.png)
+## Time Spent: 5h
+Since it's still getting reviewed, I decided to completely redesign my rgb part of the pcb, recommeneded by @Kai Pereira. He said to add capacitators after each rgb. I decided to do that which took the majority of the day and alot of frustration. I also had a really bad time rewiring everything, but I completed this and slept peacefully. ofc this took 10 hours (extended till tmrw). Journal pic got lost :(
+
 
 # Day 7: June 18th, 2025
 
 ## Time spent: 2h+2h+1h
 Still didn't get reviewed, I decided to also polish the CAD in the hope of 1 extra point. Working on it, might take a bit of my sanity but atleast my onshape is better than KiCAD. Forgot to mention this before but I switched my RP2040 stamp to a RP2035 stamp because RP2040 stamps aren't available in the market.
 
-Ok I went crazy on polishing the CAD and I decided to add some art! My 2 favourite albums, well not really I have one more, "Alone At Prom" but I couldn't generate a good enough silkscreen art for it :(( 
-![Day 7 pic](BothLayersPCB.png)
+Ok I went crazy on polishing the CAD and I decided to add some art! My 2 favourite albums, well not really I have one more, "Alone At Prom" but I couldn't generate a good enough silkscreen art for it :(
+![Day 7 pic](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/3DFrontViewPCB.png)
 
 # Day 8: June 19th, 2025
 
 ## Time spent: 2h+4h
-2am right now, yeah I was just polishing CAD. Decided to add some keyswitches, but they are the wrong time. But frick it, we ball!
-![Day 8 pic](Day8pic1.png)
+2am right now, yeah I was just polishing CAD. Decided to add some keyswitches, but they are the wrong ones. But frick it, we ball! (CAD doesn't matter anyways since it wont be 3D printed ;))
+![Day 8 pic](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/journal-ss/Day8pic1.png)
 BRUHHH I forgot to add stabilizers. JUST WHEN I THOUGHT I WAS DONE WITH THE PCB. took like 2 seconds but the frustration was insane. I don't feel like updating my step file for the PCB LOL DEAL WITH IT AHAH.
-![Day 8 pic](3DFrontviewPCB)
+![Day 8 pic](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/BothLayersPCB.png)
 
 COMPLETED CAD!!!!!!!!! YIPPPPEEEEEEE!!!!! PROJECT IS DONE PLEASE REVIEW!!!!!
 will put the stl files in a bit after the splits
-![Day 8 pic](IsometricViewCAD)
+![Day 8 pic](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/IsometricViewCAD.png)
+
+# Day 9: June 20th, 2025
+
+## Time spent: 2h
+Decided to redo the LEDs cause I messed up. Thanks Kai for pointing that out again ;). Also put stl split files & step files because alexren forced me to. I am officially 100% done with non hardware work for this project!
 
 
