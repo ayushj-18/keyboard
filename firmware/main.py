@@ -43,8 +43,8 @@ keyboard.keymap = [
 rgb = RGB(
     pixel_pin=board.GP30,
     num_pixels=84,
-    val_limit=100,
-    animation_mode=2  # 2 = Rainbow Swirl, 1 = Solid Color, etc.
+    val_limit=255,
+    animation_mode=2  # 2 = Rainbow Swirl, 1 = Solid Color
 )
 
 if __name__ == '__main__':
