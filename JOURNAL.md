@@ -11,7 +11,7 @@ I really wanted to make a keyboard to just gain insights on how electronics like
 
 Inspo- https://www.montechpc.com/mkey-tkl
 
-Total time spent: 29h 
+Total time spent: 48h 
 
 # Day 1: June 12th, 2025
 
@@ -83,4 +83,6 @@ will put the stl files in a bit after the splits. <br>
 ## Time spent: 2h
 Decided to redo the LEDs cause I messed up. Thanks Kai for pointing that out again ;). Also put stl split files & step files because alexren forced me to. I am officially 100% done with non hardware work for this project!
 
+# Day 10-13: June 23rd, 2025
+Waiting to get reviewed, realized I didn't have stabilizers for my BOM, updated that. Small price change for one of my projects- ![image](https://github.com/user-attachments/assets/443c3637-0087-46a2-92ef-e911db6db8de)
 
