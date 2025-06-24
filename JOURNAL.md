@@ -84,5 +84,14 @@ will put the stl files in a bit after the splits. <br>
 Decided to redo the LEDs cause I messed up. Thanks Kai for pointing that out again ;). Also put stl split files & step files because alexren forced me to. I am officially 100% done with non hardware work for this project!
 
 # Day 10-13: June 23rd, 2025
-Waiting to get reviewed, realized I didn't have stabilizers for my BOM, updated that. Small price change for one of my projects- ![image](https://github.com/user-attachments/assets/443c3637-0087-46a2-92ef-e911db6db8de)
+Waiting to get reviewed, realized I didn't have stabilizers for my BOM, updated that. Small price change for one of my projects- ![image](https://github.com/user-attachments/assets/443c3637-0087-46a2-92ef-e911db6db8de) <br>
+
+another thing I found interesting
+![image](https://github.com/user-attachments/assets/312521e1-ae4a-4181-bd92-2c742b7efcbd)
+![image](https://github.com/user-attachments/assets/d4862785-ad71-4d02-aae3-0af39f9871bc)
+
+- for reference, I had the 100 PC one on my BOM mefore. I hope Hackclub can spare 5 cents to expand my electronics collection :skull:
+
+
+
 
