@@ -46,8 +46,8 @@ This is an 84 key keyboard with Backlit RGB under each key, A rotary Encoder & t
 # CAD & Case Design
 
 ### 3D Modeling (Onshape)
-![Isometric View CAD](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/IsometricViewCAD.png)
-![Side View CAD](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/SideViewCAD.png)
-![Top View CAD](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/TopViewCAD.png)
+![image](https://github.com/user-attachments/assets/c05d0ff1-9e23-49fb-92dd-a2d032d19a72)
+![image](https://github.com/user-attachments/assets/a22c3414-d757-45f6-a3c0-4523eb07925b)
+![image](https://github.com/user-attachments/assets/bfd2ca07-4721-418a-b4ca-038567ab4810)
 
 
