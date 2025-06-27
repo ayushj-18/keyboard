@@ -86,8 +86,11 @@ Decided to redo the LEDs cause I messed up. Thanks Kai for pointing that out aga
 # Day 10-13: June 23rd, 2025
 Waiting to get reviewed, realized I didn't have stabilizers for my BOM, updated that. Small price change for one of my projects- ![image](https://github.com/user-attachments/assets/443c3637-0087-46a2-92ef-e911db6db8de) <br>
 
+# Day 13-16: June 27th, 2025
+## Time spent: 1hr
+After procastinating 2 days, I decided to finally fix the CAD today.
+![image](https://github.com/user-attachments/assets/14deeb02-d04b-473a-ab5b-860e1b5c87fe)
 
-- for reference, I had the 100 PC one on my BOM mefore. I hope Hackclub can spare 5 cents to expand my electronics collection :skull:
 
 
 
