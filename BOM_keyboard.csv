@@ -1,6 +1,6 @@
 ,Part,Quantity,Why?,Cost,URL
 ,PCB,1,*required,$47.81,
-Shipping,,,depends on how fast project is reviewed,$20.2-$32.6,
+Shipping,,,depends on how fast project is reviewed,$20.2,
 ,RP2350 Stamp,1,Main Microcontroller.,$12.09,https://lectronz.com/products/rp2350-stamp
 Shipping,,,,$5.76,
 ,SK6812MINI-E LEDs,84,RGB under each key,$5.02,https://lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html?s_z=n_SK6812MINI
@@ -11,9 +11,9 @@ Shipping,,,,$5.76,
 ,Resistor 5.1kΩ,2,USB C to RP2040,$0.09,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F5101TS_C2907044.html?s_z=n_5.1k%2520ohm%2520smd%2520resistor
 ,	Capacitators,	84,	for RGBs,	$0.44,	https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KRX7R9BB104_C49678.html?s_z=n_C_0805_2012						
 Shipping,,,,$3.00,
-,Kailh Hotswappable Switches,84,*required,$12.50,https://www.amazon.com/gp/product/B096WZ6TJ5/ref=ewc_pr_img_2?smid=A257ALKOU7JKIJ&psc=1
+,Kailh Hotswappable Switches,84,*required,$12.50,https://www.amazon.com/Hot-swappable-Socket-CPG151101S11-Mechanical-Keyboard/dp/B096WZ6TJ5/ref=sr_1_8?sr=8-8
 ,Filament ~400g,1(~400g),I only need 400g but I can't find less than 1KG,$11.99,https://www.amazon.com/gp/product/B0CS2XHNKL/ref=ewc_pr_img_1?smid=A340DAQR1F0B17
 ,Flux,70g,I would need this for soldering,$5.99,https://www.amazon.com/gp/product/B08MVXW4RY/ref=ox_sc_act_title_2?smid=A52EOVPNRJXJR
-,Kailh Keyswitches,84,*required,$35.99,https://www.amazon.com/gp/product/B0DB4NN4YG/ref=sw_img_1?smid=A3H7FAQ7RTFO0E
+,Kailh Keyswitches,84,*required,$39.99,https://www.amazon.com/gp/product/B0DB4NN4YG/ref=sw_img_1?smid=A3H7FAQ7RTFO0E
 Shipping,,,,FREE,
 Total,,,,$164.49-$177.09,
