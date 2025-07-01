@@ -1,6 +1,6 @@
 ,Part,Quantity,Why?,Cost,URL
-,PCB,1,*required,$47.81,
-Shipping,,,depends on how fast project is reviewed,$20.2,
+,PCB,1,*required,$30.34,
+Shipping,,,,---(used coupon),
 ,RP2350 Stamp,1,Main Microcontroller.,$12.09,https://lectronz.com/products/rp2350-stamp
 Shipping,,,,$5.76,
 ,SK6812MINI-E LEDs,84,RGB under each key,$5.02,https://lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html?s_z=n_SK6812MINI
