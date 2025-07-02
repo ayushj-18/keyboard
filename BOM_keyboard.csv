@@ -1,16 +1,16 @@
 ,Part,Quantity,Why?,Cost,URL
 ,PCB,1,*required,$30.34,
 Shipping,,,,---(used coupon),
-,RP2350 Stamp,1,Main Microcontroller.,$11.80,https://lectronz.com/products/rp2350-stamp
-Shipping,,,,$11.80,
+,RP2350 Stamp,1,Main Microcontroller.,$13.79,https://lectronz.com/products/rp2350-stamp
+Shipping,,,,$13.79,
 ,SK6812MINI-E LEDs,84,RGB under each key,$5.02,https://lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html?s_z=n_SK6812MINI
-,Rotary Encoder (EC11),1,Also on my keyboard,$1.95,https://lcsc.com/product-detail/Rotary-Encoders_ALPSALPINE-EC11E18244AU_C202365.html?s_z=n_Rotary%2520Encoder%2520EC11%2520Alps
+,Rotary Encoder (EC11),1,Also on my keyboard,not ordering,
 ,Diodes 1N4148,84,1 per key,$0.90,https://lcsc.com/product-detail/Switching-Diodes_LGE-1N4148_C402212.html?s_z=n_1N4148%2520Diode
 ,Resistor 330Ω,1,For SK6812 rgb line,$0.53,https://lcsc.com/product-detail/Through-Hole-Resistors_CCO-Chian-Chia-Elec-MF1-4W-330-1-T_C119313.html?s_z=n_330%2520ohm%2520through%2520hole%2520resistor
 ,USB-C connector (16P),1,Since it's a stamp,$0.87,https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html?s_z=n_USB%2520C%252016P
 ,Resistor 5.1kΩ,2,USB C to RP2040,$0.09,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F5101TS_C2907044.html?s_z=n_5.1k%2520ohm%2520smd%2520resistor
 ,	Capacitators,	84,	for RGBs,	$0.44,	https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KRX7R9BB104_C49678.html?s_z=n_C_0805_2012						
-Shipping,,,,$3.00,
+Shipping,,,,$12.12,
 ,Kailh Hotswappable Switches,84,*required,$12.50,https://www.amazon.com/Hot-swappable-Socket-CPG151101S11-Mechanical-Keyboard/dp/B096WZ6TJ5/ref=sr_1_8?sr=8-8
 ,Filament ~400g,1(~400g),I only need 400g but I can't find less than 1KG,$11.99,https://www.amazon.com/gp/product/B0CS2XHNKL/ref=ewc_pr_img_1?smid=A340DAQR1F0B17
 ,Stabilizers,5,MX type Stabilizers for bigger keys,$8.10,https://www.amazon.com/gp/product/B07K8HP6KC/ref=ox_sc_act_title_3?smid=A257ALKOU7JKIJ
