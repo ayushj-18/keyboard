@@ -1,8 +1,8 @@
 ,Part,Quantity,Why?,Cost,URL
 ,PCB,1,*required,$30.34,
 Shipping,,,,---(used coupon),
-,RP2350 Stamp,1,Main Microcontroller.,$12.09,https://lectronz.com/products/rp2350-stamp
-Shipping,,,,$5.76,
+,RP2350 Stamp,1,Main Microcontroller.,$11.80,https://lectronz.com/products/rp2350-stamp
+Shipping,,,,$11.80,
 ,SK6812MINI-E LEDs,84,RGB under each key,$5.02,https://lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html?s_z=n_SK6812MINI
 ,Rotary Encoder (EC11),1,Also on my keyboard,$1.95,https://lcsc.com/product-detail/Rotary-Encoders_ALPSALPINE-EC11E18244AU_C202365.html?s_z=n_Rotary%2520Encoder%2520EC11%2520Alps
 ,Diodes 1N4148,84,1 per key,$0.90,https://lcsc.com/product-detail/Switching-Diodes_LGE-1N4148_C402212.html?s_z=n_1N4148%2520Diode
