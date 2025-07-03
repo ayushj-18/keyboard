@@ -26,7 +26,7 @@ Made a matrix on MS Paint to understand how the basic structure of my PCB and fi
 
 ## Time Spent: 1h+7h 
 Literally spent the entire day researching, asking people questions in slack (i love everyone is so helpful) and I basically completed the entire schematic and assigned all footprints. Made a basic draft of my BOM and thats about it. 
-I did struggle so much on figuring out how microcontrollers work and which one will I need. I also had a hard time assigning footprints but I pulled through. 
+I did struggle so much on figuring out how microcontrollers work and which one will I need. I also had a hard time assigning footprints.
 My goal for tomorrow will definitly be to make the PCB and start the 3D modeling.
 
 ![image](https://github.com/user-attachments/assets/6dbeb918-e56a-4f57-acaf-ed31cbed7eef)
@@ -34,7 +34,7 @@ My goal for tomorrow will definitly be to make the PCB and start the 3D modeling
 # Day 3: June 14th, 2025
 
 ## Time Spent: 1h+8h
-Ok so I made the entire PCB, which took the entirety of the 8h of the day. I forgot one crucial thing, which was to add a 0.1uf capacitor after every rgb. Hope my entire project doesn't get rejected for this, I burnt 8 hours into this and forgot something :sob:. Anyways, I am pretty sure I won't be running the craziest animations out there, so I hope it won't be an issue. Here's the 3d view and the PCB. 
+Ok so I made the entire PCB, which took the entirety of the 8h of the day. I forgot one crucial thing, which was to add a 0.1uf capacitor after every rgb. Anyways, I am pretty sure I won't be running the craziest animations out there, so I hope it won't be an issue.
 
 ![image](https://github.com/user-attachments/assets/a60f2909-a369-43c4-8306-4323ec5364b6)
 ![image](https://github.com/user-attachments/assets/72cdecb3-90cf-4837-a2cd-be4bca3591ce)
@@ -51,20 +51,20 @@ I have completed the schematic, I realized I didn't have a USB C for my RP2040 s
 # Day 5: June 16th, 2025 (from midnight)
 
 ## Time Spent: 2h
-It's currently 2am or so But I have made an entire BOM, Got all my CAD Files here, double checked my firmware & I don't think I can't do much if I messed up my PCB :sob:. Fingers are crossed if I didn't mess up anything. I really wanna start my 3rd project soon which will take so long to research. I am aware that I don't have capacitators for my rgb light setup, but it won't be an issue. My brightness wouldn't be set to too high. Idk if I should have any pictures here because all I did was the BOM and doomscrolled a bit in between. (only worked on it 12am-2am). no journal picture :sob:
+It's currently 2am or so But I have made an entire BOM, Got all my CAD Files here, double checked my firmware & I don't think I can't do much if I messed up my PCB. Fingers are crossed if I didn't mess up anything (only worked on it 12am-2am). no journal picture.
 
 # Day 6: June 17th, 2025 
 
 ## Time Spent: 5h
-Since it's still getting reviewed, I decided to completely redesign my rgb part of the pcb, recommeneded by @Kai Pereira. He said to add capacitators after each rgb. I decided to do that which took the majority of the day and alot of frustration. I also had a really bad time rewiring everything, but I completed this and slept peacefully. ofc this took 10 hours (extended till tmrw). Journal pic got lost :(
+Since it's still getting reviewed, I decided to completely redesign my rgb part of the pcb, recommeneded by @Kai Pereira. He said to add capacitators after each rgb. I decided to do that which took the majority of the day and alot of frustration. I also had a really bad time rewiring everything, but I completed this and slept peacefully. ofc this took 5 hours.
 
 
 # Day 7: June 18th, 2025
 
 ## Time spent: 2h+2h+1h
-Still didn't get reviewed, I decided to also polish the CAD in the hope of 1 extra point. Working on it, might take a bit of my sanity but atleast my onshape is better than KiCAD. Forgot to mention this before but I switched my RP2040 stamp to a RP2035 stamp because RP2040 stamps aren't available in the market.
+Forgot to mention this before but I switched my RP2040 stamp to a RP2035 stamp because RP2040 stamps aren't available in the market.
 
-Ok I went crazy on polishing the CAD and I decided to add some art! My 2 favourite albums, well not really I have one more, "Alone At Prom" but I couldn't generate a good enough silkscreen art for it :( . <br>
+Ok I went crazy on polishing the CAD and I decided to add some art! My 2 favourite albums, well not really I have one more, "Alone At Prom" but I couldn't generate a good enough silkscreen art for it. <br>
 ![Day 7 pic](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/3DFrontviewPCB.png)
 
 # Day 8: June 19th, 2025
@@ -72,27 +72,26 @@ Ok I went crazy on polishing the CAD and I decided to add some art! My 2 favouri
 ## Time spent: 2h+4h
 2am right now, yeah I was just polishing CAD. Decided to add some keyswitches, but they are the wrong ones. But frick it, we ball! (CAD doesn't matter anyways since it wont be 3D printed ;)<br>
 ![Day 8 pic](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/journal-ss/Day8pic1.png) <br>
-BRUHHH I forgot to add stabilizers. JUST WHEN I THOUGHT I WAS DONE WITH THE PCB. took like 2 seconds but the frustration was insane. I don't feel like updating my step file for the PCB LOL DEAL WITH IT AHAH. <br>
+BRUHHH I forgot to add stabilizers. JUST WHEN I THOUGHT I WAS DONE WITH THE PCB. took like 2 seconds but the frustration was insane. <br>
 ![Day 8 pic](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/IsometricViewCAD.png) <br>
-COMPLETED CAD!!!!!!!!! YIPPPPEEEEEEE!!!!! PROJECT IS DONE PLEASE REVIEW!!!!!
-will put the stl files in a bit after the splits. <br>
+COMPLETED CAD!!!!!!!!! YIPPPPEEEEEEE!!!!! PROJECT IS DONE!!!!!<br>
 ![Day 8 pic](https://github.com/ayushj-18/procastinateboard/blob/main/screenshots/readme-ss/IsometricViewCAD.png)<br>
 
 # Day 9: June 20th, 2025
 
 ## Time spent: 2h
-Decided to redo the LEDs cause I messed up. Thanks Kai for pointing that out again ;). Also put stl split files & step files because alexren forced me to. I am officially 100% done with non hardware work for this project!
+Decided to redo the LEDs cause I messed up. Thanks Kai for pointing that out again.
 
 # Day 10-13: June 23rd, 2025
-Waiting to get reviewed, realized I didn't have stabilizers for my BOM, updated that. Small price change for one of my projects- ![image](https://github.com/user-attachments/assets/443c3637-0087-46a2-92ef-e911db6db8de) <br>
+I realized I didn't have stabilizers in my BOM, updated that.
 
 # Day 13-16: June 27th, 2025
-## Time spent: 1hr
+## Time spent: 1h
 After procastinating 2 days, I decided to finally fix the CAD today.
 ![image](https://github.com/user-attachments/assets/14deeb02-d04b-473a-ab5b-860e1b5c87fe)
 
 # Day 16-21, 2025
-## Time spent: approx collectively over all these days 2hrs
+## Time spent: 2h
 Ordered some stuff, originally BOM was $164 but now it's $149.10. around 90 cents left in grant. Saved some money but I will have to spend my own money on filament and screws which I am fine with.
 
 
