@@ -91,6 +91,10 @@ Waiting to get reviewed, realized I didn't have stabilizers for my BOM, updated 
 After procastinating 2 days, I decided to finally fix the CAD today.
 ![image](https://github.com/user-attachments/assets/14deeb02-d04b-473a-ab5b-860e1b5c87fe)
 
+# Day 16-21, 2025
+## Time spent: approx collectively over all these days 2hrs
+Ordered some stuff, originally BOM was $164 but now it's $149.10. around 90 cents left in grant. Saved some money but I will have to spend my own money on filament and screws which I am fine with.
+
 
 
 
