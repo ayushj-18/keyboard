@@ -91,10 +91,18 @@ After procastinating 2 days, I decided to finally fix the CAD today.
 ![image](https://github.com/user-attachments/assets/14deeb02-d04b-473a-ab5b-860e1b5c87fe)
 
 # Day 16-21, 2025
-## Time spent: 2h
+## Time spent: >1h
 Ordered some stuff, originally BOM was $164 but now it's $149.10. around 90 cents left in grant. Saved some money but I will have to spend my own money on filament and screws which I am fine with.
 
+# Day 22-31, 2025: August 7th, 2025
+## Time spent: ~3-4h
+PCB arrived, no picture sadly but I do have a picture of my parts! One of my 3-d printed parts was completely bent, I have not idea why but there was something wrong with shipping. I spent around 3-4 hours soldering and soldered most of my keyboard over this week. I barely have any pictures because of school, and one picture I took is so blurry I feel embarrassed to put it on here.
+![signal-2025-09-09-195538](https://github.com/user-attachments/assets/190d5f7d-c880-4421-8c24-6ae9f9886dff)
 
+# Day 32, 2025: August 14th, 2025
+## Time spent: 8h
+Completed my Assembly of 3d Printed parts, some of my keycaps are not all the way onnected to the keyswitches because of my bent 3-d parts. Honestly, this part was out of my control and I can't do anything about it. But it works without that case really well. I will definitely be reprinting those parts when I get my Own 3d Printer but for now I love the keyboard.
 
+![signal-2025-09-09-195557](https://github.com/user-attachments/assets/940ce4d6-5db7-4341-8d04-5483699c074d)
 
 
