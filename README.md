@@ -45,5 +45,3 @@ This is an 84 key keyboard with Backlit RGB under each key, A rotary Encoder & t
 ![image](https://github.com/user-attachments/assets/a22c3414-d757-45f6-a3c0-4523eb07925b)
 ![image](https://github.com/user-attachments/assets/bfd2ca07-4721-418a-b4ca-038567ab4810)
 
-# Final Product
-<img width="330" height="621" alt="image" src="https://github.com/user-attachments/assets/a11878e4-4b01-4711-b695-32c247254d64" />
