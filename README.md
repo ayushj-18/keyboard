@@ -1,17 +1,12 @@
 ---
-title: "The Procastinate Board"
+title: "A Keyboard"
 author: "Ayush Jaiswal"
-description: "Making this personal keyboard so that I don't procastinate making a keyboard later on"
 created_at: "2025-06-12"
 ---
 
 # Project Idea/Inspo
 
-I really wanted to make a keyboard to just gain insights on how electronics like keyboards work. After doing the hackpad, I got inspired to make a full keyboard looking at the keyboards other members made. Welp how hard can it be :smile:
-
 Inspo- https://www.montechpc.com/mkey-tkl
-
-Total time spent: 49h 
 
 # Project Overview
 
@@ -49,5 +44,4 @@ This is an 84 key keyboard with Backlit RGB under each key, A rotary Encoder & t
 ![image](https://github.com/user-attachments/assets/c05d0ff1-9e23-49fb-92dd-a2d032d19a72)
 ![image](https://github.com/user-attachments/assets/a22c3414-d757-45f6-a3c0-4523eb07925b)
 ![image](https://github.com/user-attachments/assets/bfd2ca07-4721-418a-b4ca-038567ab4810)
-
 
